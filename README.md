@@ -41,7 +41,7 @@
 - Game Development.
 - Backend Development.
 - Machine Learning Algorithms.
-- Generative Art with Handmade Algorithms.
+- Algorithmic Art.
 
 ###
 
