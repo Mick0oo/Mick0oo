@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">I'm interested in...</h3>
+<h3 align="left">My fields of interest:</h3>
 
 ###
 
