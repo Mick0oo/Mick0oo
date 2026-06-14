@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Call me Mikey. I'm a Computer Scientist from Brazil 🇧🇷</h3>
+<h2 align="center">Call me Mikey. I'm a Computer Scientist from Brazil 🇧🇷</h2>
 
 ###
 
@@ -26,9 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+---
+
 ###
 
-<p align="left">Currently working on an implementation of Conway's Game of Life made from scratch!</p>
+<p align="left"><i>Currently working on an implementation of Conway's Game of Life made from scratch!</i></p>
 
 ###
 
@@ -36,7 +38,10 @@
 
 ###
 
-<p align="left">- Game Development.<br>- Backend Development.<br>- Machine Learning Algorithms.<br>- Generative Art with Handmade Algorithms.</p>
+- Game Development.
+- Backend Development.
+- Machine Learning Algorithms.
+- Generative Art with Handmade Algorithms.
 
 ###
 
@@ -44,6 +49,9 @@
 
 ###
 
-<p align="left">- Absolutely in love with the wide world of art. <br>- I have drawn ever since I was 4-ish.<br>- I play the guitar.<br>- I'm currently trying to learn wood carving.</p>
+- Absolutely in love with the wide world of art.
+- I have drawn ever since I was 4-ish.
+- I play the guitar.
+- I'm currently trying to learn wood carving.</p>
 
 ###
