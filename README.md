@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Call me Mikey. I'm a Computer Scientist from Brazil 🇧🇷</h2>
+<h2 align="center">Call me Mikey. I'm a Computer Scientist from Brazil! 🇧🇷 </h2>
 
 ###
 
