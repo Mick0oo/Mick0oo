@@ -4,6 +4,8 @@
 
 <h2 align="center">Call me Mikey. I'm a Computer Scientist from Brazil! 🇧🇷 </h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mick0oo)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 <div align="center">
