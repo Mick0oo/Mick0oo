@@ -32,6 +32,13 @@
 
 <p align="left"><i>Currently working on an implementation of Conway's Game of Life made from scratch!</i></p>
 
+<!--
+###
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=509 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick0oo&theme=transparent&layout=pie" />
+</a> 
+-->
+
 ###
 
 <h3 align="left">My fields of interest:</h3>
